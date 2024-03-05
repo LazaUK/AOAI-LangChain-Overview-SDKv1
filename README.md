@@ -10,3 +10,4 @@ LangChain framework helps developers to create various applications:
 -	**Document analysis and summarisation**: Extracting key information and generating summaries.
 -	**Code analysis**: Assisting with code review, troubleshooting and generation.
 
+> For details, please refer to this repo's [Wiki](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki)
