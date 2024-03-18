@@ -12,6 +12,6 @@ LangChain framework helps developers to create various applications:
 
 ***
 More detailed information about the use of LangChain together with Azure OpenAI models can be found on this Wiki pages:
-### [1. Installation](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/1.-Installation)
-### [2. Building Applications](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/2.-Building-Applications)
-### [3. Additional Resources](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/3.-Additional-Resources)
+* [1. Installation](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/1.-Installation)
+* [2. Building Applications](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/2.-Building-Applications)
+* [3. Additional Resources](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/3.-Additional-Resources)
