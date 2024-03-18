@@ -11,6 +11,7 @@ LangChain framework helps developers to create various applications:
 -	**Code analysis**: Assisting with code review, troubleshooting and generation.
 
 > For details, please refer to this repo's [Wiki](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki), that describes the following topics:
+
 [1. Installation](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/1.-Installation)
 [2. Building Applications](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/2.-Building-Applications)
 [3. Additional Resources](https://github.com/LazaUK/AOAI-LangChain-Overview-SDKv1/wiki/3.-Additional-Resources)
