@@ -1,4 +1,4 @@
-# LangChain with Azure OpenAI – L300
+# LangChain with Azure OpenAI
 LangChain is an open-source framework, that you can use to build AI applications, which are utilising capabilities of large language models (LLMs). It provides a set of tools and libraries to simplify the development process, so that you can build context-aware and reasoning applications without deep expertise in LLMs.
 LangChain provides functionalities like:
 
